@@ -14,3 +14,5 @@ Edit wallets.txt, enter address of your friend for the transactions
 Use screen to run it in the background
 
 ```python3 main.py```
+
+Telegram : @benevientod
